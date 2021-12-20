@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a838a1db.css",
+    "main.js": "/static/js/main.a5d09894.js",
+    "static/media/about-img.png": "/static/media/about-img.c9b1b4e5088c683bb1e5.png",
+    "static/media/trainer-2-min.jpg": "/static/media/trainer-2-min.14cde56ba6b325722128.jpg",
+    "static/media/trainer-1-min.jpg": "/static/media/trainer-1-min.69fc5b9aea4e9bcbc577.jpg",
+    "static/media/hero-img.jpg": "/static/media/hero-img.78c3cdb03d3238120c4e.jpg",
+    "static/media/trainer-3-min.jpg": "/static/media/trainer-3-min.5b1e8effa38933791e04.jpg",
+    "static/media/trainer-4-min.jpg": "/static/media/trainer-4-min.c33873b167dc72339690.jpg",
+    "static/media/login-img-min.jpg": "/static/media/login-img-min.5e8ee915c038f151e738.jpg",
+    "static/media/dumbells-faq-bg-min.jpg": "/static/media/dumbells-faq-bg-min.3d699ee188c582b26d56.jpg",
+    "static/media/Logo.svg": "/static/media/Logo.5c5cdc981fd7745e7e612d5ab6f61038.svg",
+    "static/media/green-check.svg": "/static/media/green-check.a4e03ca1fe568b91742d67864841b7a0.svg",
+    "index.html": "/index.html",
+    "main.a838a1db.css.map": "/static/css/main.a838a1db.css.map",
+    "main.a5d09894.js.map": "/static/js/main.a5d09894.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a838a1db.css",
+    "static/js/main.a5d09894.js"
+  ]
+}
