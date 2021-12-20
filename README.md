@@ -2,7 +2,7 @@
 
 A gym website with landing page, login, and register page.
 
-**NOTE: This is only a front-end project there are no backend functionality in this project.**
+**NOTE: This is only a front-end project there are no back-end functionality in this project.**
 
 ## Technologies Used
 
